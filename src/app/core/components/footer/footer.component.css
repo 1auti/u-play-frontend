@@ -1,0 +1,16 @@
+.bg-gray {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: transparent;
+}
+
+.text-right {
+  float: right;
+  margin-right: 30px;
+}
+
+.text-white {
+  text-decoration: none;
+}
